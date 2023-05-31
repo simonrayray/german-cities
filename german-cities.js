@@ -500,6 +500,7 @@ var cities = [
 "Rees",
 "Regensburg",
 "Reinbek",
+"Remote",
 "Remscheid",
 "Remseck am Neckar",
 "Rendsburg",
