@@ -114,6 +114,7 @@ var links = [
 "/stellenanzeigen/ort/delmenhorst",
 "/stellenanzeigen/ort/dessau-rosslau",
 "/stellenanzeigen/ort/detmold",
+"/stellenanzeigen/ort/deutschlandweit",
 "/stellenanzeigen/ort/dietzenbach",
 "/stellenanzeigen/ort/dillenburg",
 "/stellenanzeigen/ort/dingolfing",
